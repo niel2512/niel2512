@@ -15,17 +15,23 @@ Here are some ideas to get you started:
 
 ![](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e4702nnt6mfopnhtjqbkk7crv3aara0qw9ujmb1by7r&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+<h4 align="center">Hello World!!</h4>
+
 <!-- ![Niel's GitHub stats](https://github-readme-stats.vercel.app/api?username=niel2512&show_icons=true&theme=react&hide=prs,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niel2512)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://raw.githubusercontent.com/niel2512/niel2512/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/niel2512/count.svg?"  />
 </div>
+
+###
+
+<!-- <h4 align="left">Play Games</h4> -->
+
+###
+
+<img src="https://raw.githubusercontent.com/niel2512/niel2512/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -34,6 +40,10 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h4 align="left">Tech</h4>
 
 ###
 
@@ -53,6 +63,24 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
+
+###
+
+<h4 align="left">Social Media</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nathaniel-yusuf-langelo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100006973127308" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/nathaniel.yusuf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
