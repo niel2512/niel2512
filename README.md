@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niel2512)](https://github.com/anuraghazra/github-readme-stats) -->
 
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/niel2512/count.svg?"  />
 </div>
@@ -33,17 +35,17 @@ Here are some ideas to get you started:
 
 <!-- <h4 align="left">Play Games</h4> -->
 
-<!-- ###
+###
 
 <img src="https://raw.githubusercontent.com/niel2512/niel2512/output/snake.svg" alt="Snake animation" />
 
-### -->
+###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
