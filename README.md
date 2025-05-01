@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e4702nnt6mfopnhtjqbkk7crv3aara0qw9ujmb1by7r&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<!-- ![](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e4702nnt6mfopnhtjqbkk7crv3aara0qw9ujmb1by7r&ep=v1_gifs_search&rid=giphy.gif&ct=g) -->
+
+<div align="center">
+<img src="Happy.gif">
+</div>
 
 <h4 align="center">Hello World!!</h4>
 
