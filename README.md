@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <!-- <h4 align="left">Play Games</h4> -->
 
-###
+<!-- ###
 
 <img src="https://raw.githubusercontent.com/niel2512/niel2512/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph-dark.svg">
