@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="Happy.gif">
 </div>
 
-<h4 align="center">Hello World!!</h4>
+<h4 align="center">Hello World!! Saya Nathaniel Yusuf Langelo, biasa dipanggil Niel. Saat ini saya aktif mengembangkan aplikasi berbasis web menggunakan Laravel dan Tailwind CSS.</h4>
 
 <!-- ![Niel's GitHub stats](https://github-readme-stats.vercel.app/api?username=niel2512&show_icons=true&theme=react&hide=prs,issues)
 
@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 ###
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niel2512/niel2512/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 ###
 
