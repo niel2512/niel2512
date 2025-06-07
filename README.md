@@ -4,7 +4,7 @@
 <img src="Banner Github.png">
 </div>
 
-<h4 align="justify">Hello World!! I'm Nathaniel Yusuf Langelo, you can call me Niel. Currently I'm actively developing web-based applications using Laravel and Tailwind CSS.</h4>
+<h1 align="justify">👋Hello World!! I'm Nathaniel Yusuf Langelo, you can call me Niel. Currently I'm actively developing web-based applications using Laravel and Tailwind CSS.</h1>
 
 <!-- ![Niel's GitHub stats](https://github-readme-stats.vercel.app/api?username=niel2512&show_icons=true&theme=react&hide=prs,issues)
 
