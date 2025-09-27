@@ -8,7 +8,7 @@
 
 <h1 align="center">👋Hello World!!</h1>
 
-<div align="justify"><h3>I'm Nathaniel Yusuf Langelo, you can call me Niel. Currently I'm loved developing web-based applications using Laravel and Tailwind CSS.</h3></div>
+<div align="justify"><h3>I'm Nathaniel Yusuf Langelo, you can call me Niel. Currently I'm loved developing web-based applications using Laravel, Tailwind CSS, And ReactJS.</h3></div>
 
 <!-- ![Niel's GitHub stats](https://github-readme-stats.vercel.app/api?username=niel2512&show_icons=true&theme=react&hide=prs,issues)
 
